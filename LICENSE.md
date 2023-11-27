@@ -1,4 +1,4 @@
-# Taste Enjoy Eat - Personal License
+# Job App - Personal License
 
 **Copyright (c) [2023] [Bahna-Darius]**
 
